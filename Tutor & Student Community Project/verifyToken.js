@@ -22,10 +22,4 @@ function tokenVerification(req,res,next){
     }
 }
 module.exports = tokenVerification;
-//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhcmEucGF0ZWxAZXhhbXBsZS5jb20iLCJpYXQiOjE3MDE3Nzg4NzB9.Q9YeUxtdS1OYApGKJUZKT4lrCXT9e383YDeVVUv8xMs
-//{
-//     "email": "sara.patel@example.com",
-//     "password": "sara@2023!"
-//   }
-//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpvaG5AZXhhbXBsZS5jb20iLCJpYXQiOjE3MDE4NDQwNjB9.nVa1q5JZSm4u1vCgWPxLew0vIMmwx9oE2x5yLLL_g9w
-//tokem for jhon toe
+
